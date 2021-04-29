@@ -107,7 +107,7 @@ width: 500px;
     background-color: #23cdaf;
     color: white;
     box-shadow: 5px 10px 30px rgba(24, 139, 119,0.2);
-    transition: all ease 0s;
+    transition: all ease 0.01s;
     border-radius: 20px;
 
 }
